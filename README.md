@@ -20,3 +20,7 @@ Each topic includes basics, evidence and uncertainty, a UA research connection, 
 Existing resource search, activity tabs, and downloadable planning notes remain on the homepage. Notes are not transmitted or retained after leaving the page.
 
 Validation: JavaScript syntax, unique IDs, relative links, fragment targets, and archive integrity checked. Visual browser testing has not been completed. No license is assigned; choose one before inviting reuse.
+
+## Navigation update
+
+Reduced heading sizes throughout. Added Home, Teaching Approaches, The 5 Ps, Lessons & Resources, and About navigation while preserving Big Questions. Teaching Approaches and 5 Ps link to homepage sections; resources link to the relevant collections. About is a new page. Upload ALL HTML files, including about.html, to replace the previous version. No additional Pages setup is needed. A direct contact email is intentionally not invented.
