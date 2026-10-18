@@ -9,3 +9,5 @@ All pages share styles.css. To change fonts, sizes, or colors across the site, e
 Resource filters and planning notes are on resources.html; activity tabs are on activities.html. Notes are not sent to a server or retained after leaving the page. Research and mission summaries remain dated October 17, 2026; check linked official sources for updates.
 
 Validation: internal links and fragment targets, unique IDs, script syntax, absence of homepage anchor links in navigation, and ZIP integrity checked. Visual browser testing has not been completed.
+
+The 5 Ps now appears under Teaching Approaches and opens the framework overview. Place-based learning incorporates the supplied introduction and five-component instructional model; southern-arizona-sites.html contains the regional examples. Upload all files to apply navigation changes everywhere.
